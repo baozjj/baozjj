@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![GitHub Roast 评分徽章](https://ghfind.com/api/badge/baozjj)](https://ghfind.com/u/baozjj)
+
+[![GitHub Roast](https://ghfind.com/api/card/baozjj?theme=dark)](https://ghfind.com/u/baozjj)
